@@ -1,0 +1,24 @@
+<customers>
+    <customer cno="193">
+        <name>John Virgil Carvajal</name>
+        <address>Bolinao, Pangasinan</address>
+        <order id="10248" date="2024-04-18 8:06AM">
+            <itemno>11</itemno>
+            <itemdesc>Pad Paper</itemdesc>
+            <itemprice>27</itemprice>
+            <itemno>13</itemno>
+            <itemdesc>Crayons</itemdesc>
+            <itemprice>13.50</itemprice>
+        </order>
+    </customer>
+
+    <customer cno="100">
+        <name>Donn Jayson Quinto</name>
+        <address>Bayambang, Pangasinan</address>
+        <order id="10249" date="2024-04-18 9:06AM">
+            <itemno>12</itemno>
+            <itemdesc>Bond Paper</itemdesc>
+            <itemprice>250</itemprice>
+        </order>
+    </customer>
+</customers>
